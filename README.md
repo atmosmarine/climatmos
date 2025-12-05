@@ -92,6 +92,11 @@ pip install -r requirements.txt
     * output: diretório onde são salvos os arquivos de saída de cada índice.
     * utils: diretório contendo arquivos auxiliares, incluindo o logo da AtmosMarine (.png) para inserção em figuras e exemplos de arquivos com dados sintéticos para utilização no modo EXTERNO (para consulta de formatação).
 
+## Documentação
+
+A documentação de operação do ClimAtmos, incluindo descrição dos módulos de cálculo, parâmetros de configuração, modos de operação e exemplos de uso, encontra-se no diretório `doc/`, no arquivo `Documentacao_ClimAtmos_v1.0.pdf`.
+
+
 ## Licença
 
 O ClimAtmos é software livre e está licenciado sob os termos da
@@ -107,6 +112,12 @@ seus próprios termos. Um resumo das principais dependências e respectivas
 licenças pode ser encontrado em [THIRD_PARTY_LICENSES.md](./THIRD_PARTY_LICENSES.md).
 
 Para detalhes completos, consulte o arquivo [LICENSE](./LICENSE).
+
+## Contato
+
+Em caso de dúvidas, sugestões ou relatos de problemas, entre em contato com a equipe de desenvolvimento pelo e-mail  
+[atm@atmosmarine.com](mailto:atm@atmosmarine.com).
+
 
 
 
