@@ -95,7 +95,7 @@ pip install -r requirements.txt
 ## Documentação
 
 A documentação de operação do ClimAtmos, incluindo descrição dos módulos de cálculo, parâmetros de configuração, modos de operação e exemplos de uso, encontra-se no diretório `doc/`, no arquivo `Documentacao_ClimAtmos_v1.0.pdf`.
-https://doi.org/10.5281/zenodo.21072251
+
 
 ## Licença
 
